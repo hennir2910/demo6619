@@ -1,1 +1,3 @@
-git_demo
+# git_demo
+
+A demo of git using python
